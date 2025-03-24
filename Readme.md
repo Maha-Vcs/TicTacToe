@@ -16,14 +16,12 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/tic-tac-toe.git
 Run the program:
 
-Java: java TicTacToe.java
 
 Python: python tic_tac_toe.py
 
-C++: ./tic_tac_toe
 
 How to Play:
 
@@ -36,9 +34,7 @@ If all 9 cells are filled with no winner, it's a draw.
 Contributions:
 Feel free to fork, improve, and submit pull requests! 🎉
 
-📌 License: MIT (or specify your license)
 
-Would you like to add screenshots, AI difficulty levels, or GUI details? 🚀
 
 
 
